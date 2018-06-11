@@ -1,4 +1,6 @@
 # rgbColorGame
+### To try the game out, click on the link above the files or the one provided below:
+https://paulshaoyuqiao.github.io/rgbColorGame/
 
 ## Current Version: 0.1.0
 
